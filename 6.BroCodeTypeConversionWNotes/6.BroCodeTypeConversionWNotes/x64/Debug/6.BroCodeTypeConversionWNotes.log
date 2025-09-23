@@ -1,3 +1,0 @@
-﻿  FileName.cpp
-C:\Users\atind\OneDrive\Desktop\BroCodeRepo\C++\6.BroCodeTypeConversionWNotes\6.BroCodeTypeConversionWNotes\FileName.cpp(9,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-  6.BroCodeTypeConversionWNotes.vcxproj -> C:\Users\atind\OneDrive\Desktop\BroCodeRepo\C++\6.BroCodeTypeConversionWNotes\x64\Debug\6.BroCodeTypeConversionWNotes.exe
