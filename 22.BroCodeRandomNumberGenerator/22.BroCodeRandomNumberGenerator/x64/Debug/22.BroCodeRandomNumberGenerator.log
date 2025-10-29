@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\BroCodeRepo\C++\WithoutNotes\22.BroCodeRandomNumberGenerator\22.BroCodeRandomNumberGenerator\main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  22.BroCodeRandomNumberGenerator.vcxproj -> C:\Users\atind\OneDrive\Desktop\BroCodeRepo\C++\WithoutNotes\22.BroCodeRandomNumberGenerator\x64\Debug\22.BroCodeRandomNumberGenerator.exe
