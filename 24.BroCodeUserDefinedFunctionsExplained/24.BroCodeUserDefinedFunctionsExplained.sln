@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36603.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "24.BroCodeUserDefinedFunctionsExplained", "24.BroCodeUserDefinedFunctionsExplained\24.BroCodeUserDefinedFunctionsExplained.vcxproj", "{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Debug|x64.ActiveCfg = Debug|x64
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Debug|x64.Build.0 = Debug|x64
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Debug|x86.Build.0 = Debug|Win32
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Release|x64.ActiveCfg = Release|x64
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Release|x64.Build.0 = Release|x64
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Release|x86.ActiveCfg = Release|Win32
+		{FB8D506E-1E00-401C-B7BE-4C73DB0F28BF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA6A45C1-D0F0-4538-8CA6-01D7EF0E6349}
+	EndGlobalSection
+EndGlobal

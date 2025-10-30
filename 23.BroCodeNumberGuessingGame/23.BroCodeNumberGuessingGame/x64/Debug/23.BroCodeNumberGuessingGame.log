@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\atind\OneDrive\Desktop\BroCodeRepo\C++\WithoutNotes\23.BroCodeNumberGuessingGame\23.BroCodeNumberGuessingGame\main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  23.BroCodeNumberGuessingGame.vcxproj -> C:\Users\atind\OneDrive\Desktop\BroCodeRepo\C++\WithoutNotes\23.BroCodeNumberGuessingGame\x64\Debug\23.BroCodeNumberGuessingGame.exe
